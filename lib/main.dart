@@ -19,6 +19,9 @@ void main() {
                     .cover, // Ensure the image covers the entire container
               ),
             ),
+            Center(
+              child: Text("data"),
+            )
           ],
         ),
       ),
